@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body {
+   padding: 0px 10px 10px 8px;
+   background-color: #fff}
+
+
+button {
+   background-color: #115bab; color: #fff;  
+}
+
+.button {
+  background-color: #115bab;
+  border: none;
+  color: #fff;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.reserve{
+	background-color: #efeff3;
+	color: #6e7179;
+	font-size: 16px;
+	line-height: 26px;
+	padding: 24px 30px 22px 30px;
+}
